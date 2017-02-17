@@ -2,7 +2,7 @@ html,body{
 	margin:0;
 	padding:0;
 }
-.header,.footer,.copyright,.slider,.headLinesItem img,.mainFooter{
+.header,.footer,.copyright,.slider,.headLinesItem img,.newsItem img,.mainFooter{
 	width:100%;
 }
 .clear{
@@ -43,9 +43,6 @@ html,body{
 	width:calc((100% - 40px)/3);
 	float:left;
 	padding:10px;
-}
-.newsItem img{
-	width:100%;
 }
 .frame{
 	height:200px;
